@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Harish Gangurde
 
 🎓 **Electronics & Telecommunication Engineering Student**  
-💡 Passionate about software + hardware development  
-🚀 Love exploring how things work and building real-world projects
+💡 Passionate about software and hardware development and always eager to learn new things.  
+🚀 I enjoy building projects and exploring new technologies.
 
 ---
 
@@ -10,16 +10,13 @@
 - **Java**
 - **Python (Fundamentals, ML/GenAI basics)**
 - **Flutter (Mobile App Development)**
-- **Embedded Systems:** Arduino, ESP32, ESP8266, 8051
-- **Sensors & Hardware Integration**
 
 ---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms  
-- Advanced Python (ML / GenAI)  
-- Flutter & Mobile App Development  
-- IoT & Microcontroller-based Smart Systems  
+- Advanced Python (ML / GenAI)   
+- DBMS & Operating Systems
 
 ---
 
