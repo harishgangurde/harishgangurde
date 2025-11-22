@@ -24,7 +24,7 @@
 ---
 
 ## 📫 Connect with Me
-📌 **LinkedIn:** Harish Gangurde  
+📌 **LinkedIn:** [Harish Gangurde](https://www.linkedin.com/in/harish-gangurde-0aa124320/)  
 📌 **GitHub:** [harishgangurde](https://github.com/harishgangurde)
 
 ---
