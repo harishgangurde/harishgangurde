@@ -24,9 +24,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishgangurde&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harishgangurde&theme=dark&hide_border=false)
 
 ---
 
