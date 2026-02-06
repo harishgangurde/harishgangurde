@@ -1,8 +1,8 @@
 👋 Hi, I'm Harish Gangurde
 
--👨‍💻 Electronics & Telecommunication Engineering Student
--💡 Passionate about software and hardware development and always eager to learn new things.
--🚀 I enjoy building projects and exploring new technologies.
+👨‍💻 Electronics & Telecommunication Engineering Student  
+💡 Passionate about software and hardware development and always eager to learn new things.  
+🚀 I enjoy building projects and exploring new technologies.
 
 ---
 
@@ -25,11 +25,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishgangurde&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harishgangurde&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishgangurde&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishgangurde&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgangurde&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
