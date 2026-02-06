@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=harishgangurde&theme=dark&hide_border=false)
-
----
-
 ## 📫 Connect with Me
 
 📌 **LinkedIn:** [Harish Gangurde](https://linkedin.com/in/harish-gangurde)  
