@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFE7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Flutter+%26+Dart+Mobile+Dev+%F0%9F%93%B1;Java+%7C+Python+%7C+DSA+Grinder+%E2%98%95;DBMS+%26+PostgreSQL+Enthusiast+%F0%9F%97%84%EF%B8%8F;Electronics+%26+Telecom+Undergrad+%E2%9A%A1)](https://git.io/typing-svg)
+### ⚡ `Electronics & Telecom` &nbsp;|&nbsp; 🤖 `AI / ML` &nbsp;|&nbsp; 📱 `Flutter` &nbsp;|&nbsp; ☕ `Java` &nbsp;|&nbsp; 🐍 `Python`
 
 </div>
 
