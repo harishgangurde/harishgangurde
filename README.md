@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Harish%20Gangurde&fontSize=70&color=0:0f2027,50:203a43,100:2c5364&fontColor=00ffe7&stroke=00ffe7&strokeWidth=2&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Harish%20Gangurde&fontSize=65&color=0:0f2027,50:203a43,100:2c5364&fontColor=00ffe7&stroke=00ffe7&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=Electronics%20%26%20Telecom%20%7C%20AI%20%7C%20Flutter%20%7C%20Java&descAlignY=75&descSize=16&descColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00FFE7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Explorer+🤖;Flutter+%26+Dart+Mobile+Dev+📱;Java+%7C+Python+%7C+DSA+Grinder+☕;DBMS+%26+PostgreSQL+Enthusiast+🗄️;Electronics+%26+Telecom+Undergrad+⚡" alt="Typing SVG" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FFE7&center=true&vCenter=true&width=700&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Flutter+%26+Dart+Mobile+Dev+%F0%9F%93%B1;Java+%7C+Python+%7C+DSA+Grinder+%E2%98%95;DBMS+%26+PostgreSQL+Enthusiast+%F0%9F%97%84%EF%B8%8F;Electronics+%26+Telecom+Undergrad+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -66,15 +68,12 @@ class Harish:
 
 <div align="center">
 
-<a href="https://github.com/harishgangurde">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishgangurde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishgangurde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harishgangurde&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harishgangurde&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishgangurde&theme=tokyo-night&bg_color=0D1117&color=00ffe7&line=0099ff&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
 </div>
 
 ---
