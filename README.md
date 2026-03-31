@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Harish%20Gangurde&fontSize=70&color=0:0d0d0d,50:0a3d3d,100:0d0d0d&fontColor=00ffe7&stroke=00ffe7&strokeWidth=2.5&animation=fadeIn&fontAlignY=55&desc=Electronics%20%26%20Telecom%20%7C%20AI%20%7C%20Flutter%20%7C%20Java&descAlignY=75&descSize=17&descColor=aaffee" />
-
 <br/>
 
-### ⚡ `Electronics & Telecom` &nbsp;|&nbsp; 🤖 `AI / ML` &nbsp;|&nbsp; 📱 `Flutter` &nbsp;|&nbsp; ☕ `Java` &nbsp;|&nbsp; 🐍 `Python`
+# 👾 Hey, I'm Harish Gangurde! 🚀
+
+### `[ Electronics & Telecom · AI · Flutter · Java · Python ]`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFE7&center=true&vCenter=true&width=600&lines=Electronics+%26+Telecom+Engineer+%F0%9F%94%8C;Flutter+%26+Dart+Developer+%F0%9F%93%B1;AI+%2F+ML+Explorer+%F0%9F%A4%96;Java+%2B+Python+Enthusiast+%F0%9F%90%8D;Building+Smarter+Apps+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
 
 </div>
 
