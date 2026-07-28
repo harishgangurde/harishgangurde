@@ -133,7 +133,7 @@ class Harish:
 
 <div align="center">
 
-### 💭 *"Intelligence is the ability to adapt to change."* – Stephen Hawking
+###  *"Keep pushing the Limits."* – Max Verstappen
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harishgangurde&label=Profile%20Views&color=00ffe7&style=for-the-badge)
 
