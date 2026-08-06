@@ -90,7 +90,7 @@ class Harish:
 |:---|:---|:---:|
 | 🤖 **Generative AI** | Prompting, RAG pipelines & LLM integration | 🔥 Active |
 | 📱 **Flutter & Dart** | Advanced state management — Riverpod & Bloc | 🔥 Active |
-| 🧩 **DSA** | Trees, Graphs & Dynamic Programming | ⚡ Daily |
+| 🧩 **DSA** | Array, String & Dynamic Programming | ⚡ Daily |
 | 🗄️ **DBMS** | Transactions, Indexing & Query Optimization | 📖 Learning |
 | 🐍 **Python / ML** | ML pipelines & model deployment | 🔥 Active |
 | ☕ **Java** | OOP, Collections & Design Patterns | ✅ Ongoing |
