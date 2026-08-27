@@ -109,7 +109,7 @@ class Harish:
 │   🤖  Build AI-powered mobile apps with Flutter         │
 │   🧠  Make ML models that solve real problems           │
 │   🗄️  Design efficient, scalable database systems       │
-│   🧩  Crack DSA challenges every single day             │
+│   🧩  Crack DSA challenges every day                    │
 │   🤝  Collaborate, contribute & grow together           │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
